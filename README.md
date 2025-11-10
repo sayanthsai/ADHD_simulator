@@ -10,7 +10,7 @@ This project is a simple ADHD focus simulation tool built using **Python** and t
 The project encourages others to **build on top of this foundation**. There is significant opportunity to improve the user interface, refine task flow, enhance accessibility, and create a more polished overall experience.
 
 ---
-## How It Works (Expanded Explanation)
+## How It Works
 
 When the simulation begins, the user is guided through a sequence of simple tasks such as clicking a button a certain number of times, typing a given word, arranging items in order, or recalling a short pattern. These tasks on their own are easy and require only basic focus.
 
