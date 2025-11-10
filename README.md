@@ -10,6 +10,22 @@ This project is a simple ADHD focus simulation tool built using **Python** and t
 The project encourages others to **build on top of this foundation**. There is significant opportunity to improve the user interface, refine task flow, enhance accessibility, and create a more polished overall experience.
 
 ---
+## How It Works (Expanded Explanation)
+
+When the simulation begins, the user is guided through a sequence of simple tasks such as clicking a button a certain number of times, typing a given word, arranging items in order, or recalling a short pattern. These tasks on their own are easy and require only basic focus.
+
+However, while the user is completing these tasks, the program introduces controlled distractions:
+
+Visual distractions: small shapes or text float or move across the screen.
+
+Audio distractions: soft background sounds play at random intervals.
+
+These distractions are intentionally subtle, not overwhelming. Their goal is to gently interrupt the user’s attention, requiring them to refocus repeatedly.
+
+By experiencing this shift in attention during basic tasks, the user gets a small, relatable insight into how everyday activities can feel more challenging for individuals with ADHD—where attention must constantly be redirected and maintained.
+
+The simulation continues task-by-task until all steps are completed, after which the user is encouraged to reflect on how their focus changed throughout the experience.
+
 
 ## Purpose of the Project
 
