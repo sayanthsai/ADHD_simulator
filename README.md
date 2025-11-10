@@ -26,6 +26,7 @@ By experiencing this shift in attention during basic tasks, the user gets a smal
 
 The simulation continues task-by-task until all steps are completed, after which the user is encouraged to reflect on how their focus changed throughout the experience.
 
+https://youtu.be/5ey-gbD4N2o
 
 ## Purpose of the Project
 
